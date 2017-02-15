@@ -1,0 +1,23 @@
+{
+  "name": "andela-challenge-day-3",
+  "version": "1.0.0",
+  "description": "This program contains andela challenges for day three ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Omokaro Faith",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^2.5.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekhorowa/Andela-Day3-Challenges.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ekhorowa/Andela-Day3-Challenges/issues"
+  },
+  "homepage": "https://github.com/ekhorowa/Andela-Day3-Challenges#readme"
+}
